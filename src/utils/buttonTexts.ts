@@ -1,0 +1,33 @@
+const buttonTexts: string[] = [
+    "Click for Free WiFi",
+    "Claim Your Prize Now!",
+    "Launch Self-Destruct Sequence",
+    "Reveal the Hidden Feature",
+    "Start the Apocalypse",
+    "Open a Portal to Another Dimension",
+    "Fix All Your Problems",
+    "Make the Page Disappear",
+    "Reset",
+    "Click Me!",
+    "Do Not Click",
+    "Download More RAM",
+    "This Does Something (Maybe?)",
+    "Totally Safe to Click",
+    "Press at Your Own Risk",
+    "Mystery Button",
+    "What Happens Next?",
+    "Make Something Happen",
+    "Absolutely Useless",
+    "Regret This Click",
+    "Do You Dare?",
+    "I Have No Purpose",
+    "Nothing Will Happen",
+    "Don’t Even Try",
+    "Trust Me, Bro",
+    "Infinite Power Awaits",
+    "One Click = Instant Regret",
+    "I Do Nothing. Or Do I?",
+    "You Have No Idea"
+];
+
+export default buttonTexts;
